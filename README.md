@@ -2,9 +2,10 @@
 # Canada SHDI Dashboard (Dash Version)
 
 This project provides an interactive dashboard built with **Dash** to visualize the Subnational Human Development Index (SHDI) for Canada and its provinces/territories from 1990 to 2022.
-By Muhammad Ibrahim Shah and Al Rey Villagracia
----
 
+---
+### By Muhammad Ibrahim Shah and Al Rey Villagracia
+---
 ## 📊 Features
 
 - **Interactive SHDI Trends** by selected provinces
